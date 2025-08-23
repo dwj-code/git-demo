@@ -1,6 +1,5 @@
 # this is a test file
 
-for i in range(10):
-    print(i)
+print('this is a hello')
 
 # change this file
